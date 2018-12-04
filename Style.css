@@ -1,0 +1,42 @@
+.main{
+	margin: auto;
+
+}
+
+
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    height: 300px;
+    width: 900px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 25px plum;
+    outline: 3px solid #000;
+}
+
+.text{
+	width: 900px;
+	padding: 20px;
+    outline: 3px solid #000;
+    margin: 20px auto;
+}
+
+.list{
+	width: 900px;
+	padding: 20px;
+    outline: 3px solid #000;
+    margin: 20px auto;   
+}
+
+p:first-letter {
+    color: red;
+   }
+   
+.table{
+	width: 900px;
+	padding: 20px;
+    outline: 3px solid #000;
+    margin: 20px auto;   
+}
